@@ -1,0 +1,26 @@
+{
+  "name": "todorestfull",
+  "version": "1.0.0",
+  "description": "TODO List RESTfull",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "REST",
+    "RESTfull",
+    "TODO",
+    "List",
+    "API"
+  ],
+  "author": "Talita Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
